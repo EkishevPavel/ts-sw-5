@@ -1,0 +1,6 @@
+Název parametru,Validní třídy ekvivalence,Zkrácené příklady hodnot
+Jmeno/Prijmeni,"Null, Pismena, Zvlasni Znaky",""""", Pavel, ?$562"
+Datum Narozeni,"DD.MM.YYYY, MM/DD/YYYY, YYYY-MM-DD","20.10.2020, 07/01/2222, 1994-05-05"
+Sleva,"Student, Duchodce, Slevovy Kupon","18-65, 65-100, 0-100"
+Destinace,"EU, MIMO EU","GERMAN, USA"
+Registrace,"ANO, NE","Login, No login"
